@@ -1,0 +1,4 @@
+node_modules/
+server/service/
+client/node_modules/
+client/src/service/
